@@ -1,0 +1,14 @@
+[
+	{
+		"title": "DevHub Docs Importer Test",
+		"slug": "test",
+		"markdown_source": "../docs/README.md",
+		"parent": null
+	},
+	{
+		"title": "Sub Page",
+		"slug": "sub page",
+		"markdown_source": "../docs/sub-page/README.md",
+		"parent": "test"
+	}
+]
